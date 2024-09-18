@@ -41,7 +41,7 @@
     "dtrace-provider": "^0.8.6",
     "elasticsearch": "^15.0.0",
     "event-stream": "^3.3.4",
-    "express": "^4.16.2",
+    "express": "^4.20.0",
     "express-rate-limit": "^2.9.0",
     "git-rev": "^0.2.1",
     "github": "^14.0.0",
